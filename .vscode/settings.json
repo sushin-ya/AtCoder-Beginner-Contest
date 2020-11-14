@@ -87,4 +87,5 @@
   "[cpp]": {
       "editor.tabSize": 4,
   },
+  "C_Cpp.errorSquiggles": "Enabled",
 }
