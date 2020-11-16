@@ -1,5 +1,8 @@
-
-//   for (int i = 0; i < N; ++i) {
-//     int v = i;
-//     order.at(i) = v++;
-//   }
+  // for (int j = 0; j < M; j++) {
+        //   if (x.at(j) == i) {
+        //     continue;
+        //   } else {
+        //     tf = false;
+        //     break;
+        //   }
+        // }
