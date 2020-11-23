@@ -1,3 +1,2 @@
-  for (int j = i - D; j < i + D + 1; j++) {
-        //     p.at(j) = 1;
-        //   }
+    // for (int i = 0; i < N; ++i) cout << order.at(i) << " ";
+    // cout << endl;
