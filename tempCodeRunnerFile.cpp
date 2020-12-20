@@ -1,8 +1,6 @@
-#include <bits/stdc++.h>
-using namespace std;
+  for (int i = X; i < N; i++) {
+//     cout << i << " " << A.at(i) << endl;
+//     res2 += A.at(i);
+//   }
 
-int main() {
-  int N, A, B;
-  cin >> N >> A >> B;
-  cout << N - A + B << endl;
-}
+//   cout << max(res1, res2) << endl;
