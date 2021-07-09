@@ -1,12 +1,6 @@
-#include <bits/stdc++.h>
-using namespace std;
-
-int main() {
-  string X;
-  cin >> X;
-  int p = X.find(".");
-  if (p != -1) {
-    X.replace(p, X.length() - p, "");
+  for (int i = X + 1; i < W; i++) {
+    if (S.at(Y).at(i) == '.')
+      ans++;
+    else
+      break;
   }
-  cout << X << endl;
-}
